@@ -26,7 +26,7 @@ old_logger = Service("logging")
 
 counter = 0
 old_counter = 0
-verbosity = 0
+verbosity = 4
 attributes = [
     ["attribute1", "attribute1_value"],
     ["attrinute2", "attribute2_value"],
